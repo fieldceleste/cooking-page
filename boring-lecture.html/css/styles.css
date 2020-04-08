@@ -1,0 +1,22 @@
+p.border-bottom {
+    width: 40%;
+    font-style: italic;
+    text-align: center;
+}
+.my-list--selected {
+    border: 3px solid rgb(202, 41, 41);
+  }
+
+h2.intro {
+     widows: 40%;
+     font-size: 20pt ;
+     font-style: inherit;
+
+
+}img.intro {
+    border-radius: 50%;
+    display: block;
+    margin-left: left;
+    margin-right: auto;
+    width: 30%;
+}   

@@ -1,0 +1,3 @@
+#__Best__ Vacation **EVER** !
+
+For me the *best* vacation spot in the world would be `France`. I took a month off and traveled to Europe with my boyfriend and it was the best experience of my life. The first town we stopped in was this little town of _Caen, France_. It was so quiet and serene. There were local markets and historic sites every where you looked. We then drove to the normandy beaches and saw a ton of history. We went all over France and ended up in __Geneva,  Switzerland__. It was a trip of a lifetime! To see a map of France [Click Here](http://ontheworldmap.com/france/map-of-france-max.jpg) 

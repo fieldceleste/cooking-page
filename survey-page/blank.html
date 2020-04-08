@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<body>
+<title>Survey</title>
+<h1>What are your favorite things</h1>
+
+<p>Please provide answers to these selected questions</p>
+
+<div class="form-group">
+    <label for="name">Full Name:</label>
+    <input id="name" class="form-control" type="name">
+  </div>
+
+<p>
+<select class="form-control" id="food">
+    <option>Italian</option>
+    <option>Asian</option>
+    <option>American</option>
+    <option>Mexican</option>
+  </select>
+
+  <div class="radio">
+  <label>
+    <input type="radio" name="animal" value="dog" checked>
+    Dog
+  </label>
+</div>
+<div class="radio">
+  <label>
+    <input type="radio" name="animal" value="Cat">
+    Cat
+  </label>
+</div>
+<div class="radio">
+  <label>
+    <input type="radio" name="animal" value="Horse">
+    Horse
+  </label>
+</div>
+
+<button type="submit" class="btn">Submit</button>
+
+<div id="answers">
+    <h1>All about Me!</h1>
+    <p>My name is <span class="name"></span> and my favorite food is <span class="food"></span> and my favorite animal is <span class="animal"></span>
+    </p>
+
+</body>
+</html>
